@@ -4,7 +4,6 @@
 HealthBot is a comprehensive healthcare app designed to assist users in identifying potential health issues through an AI-powered survey. Additionally, the app provides users with relevant articles and access to medical consultations.
 
 
-![image1](https://github.com/Saim22Ahmed/HealthBot/assets/80286799/1ea4bba3-5d54-42f8-b7ff-0472438cf19f)
 
 
 
