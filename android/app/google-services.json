@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "195589649245",
+    "project_id": "untangled-19bd8",
+    "storage_bucket": "untangled-19bd8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:195589649245:android:ef71261adaeb3f13f56eb4",
+        "android_client_info": {
+          "package_name": "com.example.healthbot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDq3LEpv2dOIBBjZur3TpgApJj6tD2NHE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
